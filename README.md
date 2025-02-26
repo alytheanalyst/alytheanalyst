@@ -6,6 +6,7 @@ I’m a cybersecurity student pursuing my bachelor’s degree, with a passion fo
 - <b>Active Directory</b>
   - [Active Directory Home Lab](https://github.com/alytheanalyst/boink)
 - <b>Azure Sentinel Map and Honeypot Lab</b>
+  - [Sentinel/Honeypot Lab](https://github.com/alytheanalyst/NewHoneyPotLab).
 <h2>Hardware Projects</h2>
 
 - Building Frost, my New Gaming PC
