@@ -9,7 +9,7 @@ I’m a cybersecurity student pursuing my bachelor’s degree, with a passion fo
   - [Sentinel/Honeypot Lab](https://github.com/alytheanalyst/NewHoneyPotLab).
 <h2>Hardware Projects</h2>
 
-- Building Frost, my new PC
+- [Building Frost, my new PC](https://github.com/alytheanalyst/Frost).
 
 
 
