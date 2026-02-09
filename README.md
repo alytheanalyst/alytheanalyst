@@ -10,7 +10,7 @@ I’m a cybersecurity student pursuing my bachelor’s degree, with a passion fo
  <h2>Networking Projects:</h2>
 
 - <b>Configuring VLANS</b>
-  - [(UNFINISHED)VLAN Home Lab](https://github.com/alytheanalyst/Active-Directory)
+  - [(UNFINISHED) VLAN Home Lab](https://github.com/alytheanalyst/VLANHomelab)
 
 
 
