@@ -4,12 +4,12 @@ I’m a cybersecurity student pursuing my bachelor’s degree, with a passion fo
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Active Directory</b>
-  - [Active Directory Home Lab](https://github.com/alytheanalyst/boink)
+  - [Active Directory Home Lab](https://github.com/alytheanalyst/Active-Directory)
 - <b>Azure Sentinel Map and Honeypot Lab</b>
   - [Sentinel/Honeypot Lab](https://github.com/alytheanalyst/NewHoneyPotLab).
 <h2>Hardware Projects</h2>
 
-- [Building Frost, my new PC](https://github.com/alytheanalyst/Frost).
+- [[UNFINISHED]Building Frost, my new PC](https://github.com/alytheanalyst/Frost).
 
 
 
