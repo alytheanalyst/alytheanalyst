@@ -8,8 +8,9 @@ I’m a cybersecurity student pursuing my bachelor’s degree, with a passion fo
 - <b>Azure Sentinel Map and Honeypot Lab</b>
   - [Sentinel/Honeypot Lab](https://github.com/alytheanalyst/NewHoneyPotLab).
  <h2>Networking Projects:</h2>
+
 - <b>Configuring VLANS</b>
-  - [[UNFINISHED]VLAN Home Lab](https://github.com/alytheanalyst/NewHoneyPotLab). 
+  - [(UNFINISHED)VLAN Home Lab](https://github.com/alytheanalyst/Active-Directory)
 
 
 
