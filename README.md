@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:240046,100:5A00B4&height=100&section=header&text=Welcome!%20&fontSize=90&animation=twinkling&fontColor=E2D4F7&fontFamily=Trebuchet%20MS" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:240046,100:5A00B4&height=100&section=header&text=Welcome!%20&fontSize=90&animation=twinkling&fontColor=00FF33&fontFamily=Trebuchet%20MS" />
 
 
 <h1>Hi, I'm Aaliyah! </h1>
