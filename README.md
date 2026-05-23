@@ -2,37 +2,33 @@
 
 ---
 
-## ⚙️ Operational Profile
+<br>
 
-```yaml
-identity:
-  name: "Aaliyah"
-  focus: "Cybersecurity & Network Defense"
-  degree: "Bachelor of Science in Cybersecurity (In Progress)"
+# 👋 Hi, I'm Aaliyah!
 
-domains_of_interest:
-  - "Red Teaming / Ethical Hacking"
-  - "Blue Teaming / Security Operations (SecOps)"
-  - "Governance, Risk, & Compliance (GRC)"
+I’m a cybersecurity student pursuing my bachelor’s degree, with a passion for exploring all aspects of the field—from defending networks (**blue team**) to ethical hacking (**red team**) and governance, risk, and compliance (**GRC**). 
 
-core_philosophy:
-  - "Continuous skill acquisition"
-  - "Hands-on lab deployment"
-  - "Knowledge sharing through open source"
+I enjoy learning new skills, tackling challenges, and sharing knowledge through projects that showcase my growth. I appreciate you coming to my page and looking over my work!
 
-👨‍💻 Cybersecurity Projects
-🌌 Active Directory & Infrastructure
-Active Directory Home Lab
+---
 
-Deployment and configuration of an Active Directory environment to simulate enterprise network environments and user management.
+## 👨‍💻 Cybersecurity Projects
 
-🍯 Cloud Security & SIEM Monitoring
-Azure Sentinel Map and Honeypot Lab
+### 🌌 Active Directory
+* [Active Directory Home Lab](https://github.com/alytheanalyst/Active-Directory)
 
-Setting up a live honeypot in Azure, capturing global malicious authentication attempts, and mapping the attack data using Log Analytics and Microsoft Sentinel.
+### 🍯 Azure Sentinel Map and Honeypot Lab
+* [Sentinel/Honeypot Lab.](https://github.com/alytheanalyst/NewHoneyPotLab)
 
-🔌 Networking Projects
-🌐 Network Segmentation
-(UNFINISHED) VLAN Home Lab
+---
 
-Designing and configuring Virtual Local Area Networks (VLANs) to practice secure network segmentation and traffic isolation.
+## 🔌 Networking Projects
+
+### 🌐 Configuring VLANS
+* [(UNFINISHED) VLAN Home Lab](https://github.com/alytheanalyst/VLANHomelab)
+
+---
+
+<p align="center">
+  <sub>Feel free to check out my repositories to see my latest documentation and lab notes! 🛰️</sub>
+</p>
