@@ -1,12 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:581C87&section=header&text=Welcome!%20&fontSize=90&animation=twinkling&fontColor=FFFFFF&fontFamily=Consolas" />
 
-
-## 🛡️ About Me
-
-I’m a **Cybersecurity Student** pursuing my bachelor’s degree, with a passion for exploring all aspects of the field—from defending networks (**Blue Team**) to ethical hacking (**Red Team**) and governance, risk, and compliance (**GRC**). 
-
-I enjoy learning new skills, tackling complex challenges, and sharing knowledge through hands-on projects that showcase my growth. Thank you for coming to my page and looking over my work!
-
 ---
 
 ## ⚙️ Operational Profile
