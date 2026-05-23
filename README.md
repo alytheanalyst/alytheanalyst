@@ -4,17 +4,16 @@
 
 <br>
 
-# Hi, I'm Aaliyah!
+# Howdy, I'm Aaliyah!
 
 I’m a cybersecurity student pursuing my bachelor’s degree, with a passion for exploring all aspects of the field—from defending networks (**blue team**) to ethical hacking (**red team**) and governance, risk, and compliance (**GRC**). 
 
 I enjoy learning new skills, tackling challenges, and sharing knowledge through projects that showcase my growth. I appreciate you coming to my page and looking over my work!
 
 ---
-## 🛠️ Technical Toolkit
+## Toolkit
 
-* **🏅 Certifications:** - [Cert Name 1]
-  - [Cert Name 2]
+* **🏅 Certifications:** - CompTIA A+, CompTIA Network+, CompTIA Security+
 * **🧠 Currently Learning & Working On:** - Advanced network defense strategies, threat hunting, and [add anything else here].
 * **🧰 Tools & Technologies Experienced With:**
   - **SIEM / Monitoring:** Microsoft Sentinel, Azure Log Analytics
