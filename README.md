@@ -34,11 +34,11 @@ I enjoy learning new skills, tackling challenges, and sharing knowledge through 
 ## 🧩 Beyond the Screen
 
 When I'm not configuring labs or analyzing network traffic, I love to spend my time doing a few other things:
-* **🎮 ** I spend some of my free time immersed in gaming, specifically losing myself in fantasy worlds and deep RPGs. 
-* **🎵 ** I love creating and listening to music. I also actively play the bass and used to play the drums, which means I can hold down a groove (and annoy my family).
-* **✍️ ** When I am not playing games, I'm writing fiction and creating my own stories. 
-* **🐕 ** I love spending time outdoors and hanging out with my dog, who acts as my SIEM for all backyard activities.
-* **** I am currently learning and working on my Spanish. *¡Vamos!* (Though my code syntax is still significantly better than my conjugations right now).
+* **🎮** I spend some of my free time immersed in gaming, specifically losing myself in fantasy worlds and deep RPGs. 
+* **🎵** I love creating and listening to music. I also actively play the bass and used to play the drums, which means I can hold down a groove (and annoy my family).
+* **✍️** When I am not playing games, I'm writing fiction and creating my own stories. 
+* **🐕** I love spending time outdoors and hanging out with my dog, who acts as my SIEM for all backyard activities.
+*  I am currently learning and working on my Spanish. *¡Vamos!* 
 
 <p align="center">
   <sub>Feel free to check out my repositories to see my latest documentation and lab notes! 🛰️</sub>
