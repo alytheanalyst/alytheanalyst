@@ -27,18 +27,19 @@ core_philosophy:
   - "Hands-on lab deployment"
   - "Knowledge sharing through open source"
 
+👨‍💻 Cybersecurity Projects
+🌌 Active Directory & Infrastructure
+Active Directory Home Lab
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Deployment and configuration of an Active Directory environment to simulate enterprise network environments and user management.
 
-Here are some ideas to get you started:
+🍯 Cloud Security & SIEM Monitoring
+Azure Sentinel Map and Honeypot Lab
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Setting up a live honeypot in Azure, capturing global malicious authentication attempts, and mapping the attack data using Log Analytics and Microsoft Sentinel.
+
+🔌 Networking Projects
+🌐 Network Segmentation
+(UNFINISHED) VLAN Home Lab
+
+Designing and configuring Virtual Local Area Networks (VLANs) to practice secure network segmentation and traffic isolation.
