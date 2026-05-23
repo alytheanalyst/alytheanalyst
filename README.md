@@ -11,7 +11,17 @@ I’m a cybersecurity student pursuing my bachelor’s degree, with a passion fo
 I enjoy learning new skills, tackling challenges, and sharing knowledge through projects that showcase my growth. I appreciate you coming to my page and looking over my work!
 
 ---
+## 🛠️ Technical Toolkit
 
+* **🏅 Certifications:** - [Cert Name 1]
+  - [Cert Name 2]
+* **🧠 Currently Learning & Working On:** - Advanced network defense strategies, threat hunting, and [add anything else here].
+* **🧰 Tools & Technologies Experienced With:**
+  - **SIEM / Monitoring:** Microsoft Sentinel, Azure Log Analytics
+  - **Networking / Infrastructure:** Active Directory, Wireshark, Cisco Packet Tracer (VLANs)
+  - **Operating Systems:** Windows Server, Linux (Kali/Ubuntu)
+ 
+---
 ## 👨‍💻 Cybersecurity Projects
 
 ### 🌌 Active Directory
