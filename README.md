@@ -6,7 +6,7 @@
 
 # Howdy, I'm Aaliyah!
 
-I’m a cybersecurity student pursuing my bachelor’s degree, with a passion for exploring all aspects of the field—from defending networks (**blue team**) to ethical hacking (**red team**) and governance, risk, and compliance (**GRC**). 
+I’m a cybersecurity student pursuing my bachelor’s degree, with a passion for exploring all aspects of the field from defending networks (**blue team**) to ethical hacking (**red team**) and governance, risk, and compliance (**GRC**). 
 
 I enjoy learning new skills, tackling challenges, and sharing knowledge through projects that showcase my growth. I appreciate you coming to my page and looking over my work!
 
@@ -14,11 +14,12 @@ I enjoy learning new skills, tackling challenges, and sharing knowledge through 
 ## Toolkit
 
 * **🏅 Certifications:** - CompTIA A+, CompTIA Network+, CompTIA Security+
-* **🧠 Currently Learning & Working On:** - Advanced network defense strategies, threat hunting, and [add anything else here].
+* **🧠 Currently Learning & Working On:** - Building defensive AI agents through python, Hack The Box's Junior Cybersecurity Analyst Path, Completing GRC Project.
 * **🧰 Tools & Technologies Experienced With:**
   - **SIEM / Monitoring:** Microsoft Sentinel, Azure Log Analytics
-  - **Networking / Infrastructure:** Active Directory, Wireshark, Cisco Packet Tracer (VLANs)
-  - **Operating Systems:** Windows Server, Linux (Kali/Ubuntu)
+  - **Networking / Infrastructure:** Active Directory, Wireshark, Cisco Packet Tracer (VLANs), TCP/IP, DNS, VPN, DHCP, etc.
+  - **Operating Systems:** Windows Server, Linux, Windows 10/11
+  - **Frameworks & Regulations:** Nist 800-53, Nist 800-61, PCI DSS, GDPR, HIPAA 
  
 ---
 ## 👨‍💻 Cybersecurity Projects
@@ -29,6 +30,8 @@ I enjoy learning new skills, tackling challenges, and sharing knowledge through 
 ### 🍯 Azure Sentinel Map and Honeypot Lab
 * [Sentinel & Honeypot Lab.](https://github.com/alytheanalyst/NewHoneyPotLab)
 
+### REAL Small Business Audit
+* [(In progress as of 6/12/2026) GRC Analyst Lab.](https://github.com/alytheanalyst/NewHoneyPotLab)
 ---
 
 ## 🔌 Networking Projects
