@@ -31,7 +31,7 @@ I enjoy learning new skills, tackling challenges, and sharing knowledge through 
 * [Sentinel & Honeypot Lab.](https://github.com/alytheanalyst/NewHoneyPotLab)
 
 ### REAL Small Business Audit
-* [(In progress as of 6/12/2026) GRC Analyst Lab.](https://github.com/alytheanalyst/NewHoneyPotLab)
+* [(In progress as of 6/12/2026) GRC Analyst Lab.](https://github.com/alytheanalyst/Small-Business-GRC-Audit)
 ---
 
 ## 🔌 Networking Projects
